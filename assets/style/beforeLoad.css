@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#beforeLoad {
+    position: fixed;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    display: table;
+}
+
+#beforeLoad #beforeLoadSpin {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#beforeLoad #beforeLoadSpin svg {
+  animation: rotation 5s infinite linear;
+}
+
+@keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
+}

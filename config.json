@@ -1,0 +1,7 @@
+{
+    "toFetch": {
+        "lang": "./assets/data/lang.json",
+        "env": "./assets/data/env.json",
+        "default": "./assets/data/default.json"
+    }
+}
