@@ -8,6 +8,7 @@
         "menu_option_pricing": "入場費用",
         "menu_option_service": "服務提供",
         "menu_option_facilities": "娛樂設備",
+        "menu_option_event": "時間表",
         "footer_menu_faq": "常見問題",
         "footer_menu_agreement": "使用條款",
         "footer_menu_privacy": "私隱政策",
@@ -53,6 +54,7 @@
         "pricingpage_table_price_timeing_content2": "星期六日公眾假期",
         "pricingpage_table_price_price_title": "收費",
         "pricingpage_table_price_price_content1": "$15/小時",
-        "pricingpage_table_price_price_content2": "$20/小時"
+        "pricingpage_table_price_price_content2": "$20/小時",
+        "eventpage_title": "時間表"
     }
 }
